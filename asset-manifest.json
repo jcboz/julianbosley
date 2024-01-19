@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/julianbosley/static/css/main.87c4da9a.css",
+    "main.js": "/julianbosley/static/js/main.b6d93a0c.js",
+    "static/js/787.59da0e5b.chunk.js": "/julianbosley/static/js/787.59da0e5b.chunk.js",
+    "static/media/VCR_OSD_MONO_1.001.ttf": "/julianbosley/static/media/VCR_OSD_MONO_1.001.10cf96d54dcd9af0486c.ttf",
+    "static/media/logo.svg": "/julianbosley/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/julianbosley/index.html",
+    "main.87c4da9a.css.map": "/julianbosley/static/css/main.87c4da9a.css.map",
+    "main.b6d93a0c.js.map": "/julianbosley/static/js/main.b6d93a0c.js.map",
+    "787.59da0e5b.chunk.js.map": "/julianbosley/static/js/787.59da0e5b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.87c4da9a.css",
+    "static/js/main.b6d93a0c.js"
+  ]
+}
